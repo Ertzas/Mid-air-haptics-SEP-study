@@ -90,7 +90,9 @@ Raw EEG data are not included in this repository due to ethics and privacy consi
 
 If you use this code, please cite the associated thesis:
 
-> L. Wolf, *Effect of Spatiotemporal Modulation Drawing Speed on Somatosensory Evoked Potentials Elicited by Ultrasonic Mid-Air Haptic Stimulation*, Master's Thesis, HTW Saar, 2026.
+> L. Wolf, *Investigating the Impact of Mid-Air Haptic
+Feedback Parameters on Human Perception via
+Somatosensory Evoked Potentials (SEPs)*, Master's Thesis, htw saar, 2026.
 
 ## License
 
